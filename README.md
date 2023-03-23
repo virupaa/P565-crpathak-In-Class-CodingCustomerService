@@ -3,5 +3,5 @@ In Class Coding Activity Complete Code
 
 
 Name - Chinmay Pathak <br>
-email - crpathak@iu.edu
-Course - P565
+email - crpathak@iu.edu <br>
+Course - P565 <br>
